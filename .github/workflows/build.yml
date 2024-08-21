@@ -1,4 +1,4 @@
-name: Code Build Workflow
+name: Code Build Workflows
 
 on:
     workflow_run:
